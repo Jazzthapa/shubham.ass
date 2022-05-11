@@ -1,5 +1,0 @@
-class asg{
-public static void main(String[] args) {
-    System.out.println("Hello, Shubham Thapa");
-  }
-} 
